@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1484
+
+Spectro is a colorful scheme with a dark background. The colors are defined in the HSL (Hue, Saturation, Lightness) colorspace.
+The main interest over the RGB colorspace, is that it's easy to change the overall brightness of the scheme in order to adapt to different screens. 
+The Saturation and Lightness are defined globally with g:spectro_saturation and g:spectro_lightness, which shall be set between 0 and 255.
+
+You can see what it looks like here : "http://pierreantoine.lacaze.free.fr/linux/config/
+
+Note that there is no support for terms yet.
